@@ -1,5 +1,5 @@
 #A Leaf Story
-<p>JavaScript based game designed with the help of Phaser (Game Engine). </p>
+<p>JavaScript based game designed with the help of <a href = "https://phaser.io/" target = "_blank">Phaser (Game Engine)</a>.</p>
 
 #Implementation Details
 <p>Built using Phaser (JavaScript Game Engine).</p>
