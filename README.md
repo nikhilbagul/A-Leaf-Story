@@ -7,7 +7,7 @@
 <p>Ported to Android using Cordova Library. Published on Play Store under the same name. <a href = "https://play.google.com/store/apps/details?id=com.weedevelopers.aleafstory&hl=en" target = "_blank">Link</a></p>
 
 #How to Run the game on Client
-<br>
+
 <p>For offline</p>
 <ul>
 	<li>Download/Clone the repository</li>
